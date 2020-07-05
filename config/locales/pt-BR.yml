@@ -2,7 +2,7 @@ pt-BR:
   current_locale: "Português do Brasil"
   welcome: "Seja Bem Vindx!"
   messages:
-    welcome: "Este é o Crypto Wallet, uma app para vocês cadastrar e acompanhar suas Crypto Moedas."
+    welcome: "Este é o Crypto Wallet, um app para você cadastrar e acompanhar suas Crypto Moedas."
     menu: "Para começar, selecione uma das opções abaixo:"
     confirm: "Tem certeza?"
   links:
